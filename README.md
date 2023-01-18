@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SummerEnds.
-- 👀 I’m interested in C++, Golang.
+- 👀 I’m interested in Operating System, Distributed System.
 - 🌱 I’m currently learning Nginx, Docker, Kubernentes.
 - 📫 How to reach me: SummerEnds11@outlook.com 
 
