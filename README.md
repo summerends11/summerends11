@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SummerEnds.
 - 👀 I’m interested in Operating System, Distributed System.
-- 🌱 I’m currently learning Python, Nginx, Docker, Kubernentes.
+- 🌱 I’m currently learning Python, Redis, Nginx, Docker, Kubernentes.
 - 📫 How to reach me: SummerEnds11@outlook.com 
 
 <!---
